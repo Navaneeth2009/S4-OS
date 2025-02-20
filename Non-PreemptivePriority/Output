@@ -1,0 +1,31 @@
+Enter the number of processes: 3
+Enter Arrival time,Burst Time and Priority for each process:
+P1:
+Arrival Time: 0
+P1:
+Burst Time: 2
+Priority: 1
+P2:
+Arrival Time: 1
+P2:
+Burst Time: 3
+Priority: 4
+P3:
+Arrival Time: 6
+P3:
+Burst Time: 7
+Priority: 3
+
+Process	Priority	Burst Time	Waiting Time	Turnaround Time
+P1	1		2		0		2
+P3	3		7		2		9
+P2	4		3		9		12
+
+Average Waiting Time: 3.67
+Average Turnaround Time: 7.67
+
+Gantt Chart:
+--------------------------------------------------
+| P1 | P3 | P2 |
+--------------------------------------------------
+0	2	9	12
