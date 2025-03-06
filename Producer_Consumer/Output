@@ -1,0 +1,40 @@
+OPTIONS
+1.Producer
+2.Consumer
+3.Exit
+Enter your option : 1
+Producer produces the item 1
+
+OPTIONS
+1.Producer
+2.Consumer
+3.Exit
+Enter your option : 1
+Producer produces the item 2
+
+OPTIONS
+1.Producer
+2.Consumer
+3.Exit
+Enter your option : 2
+Consumer consumes the item 2
+
+OPTIONS
+1.Producer
+2.Consumer
+3.Exit
+Enter your option : 2
+Consumer consumes the item 1
+
+OPTIONS
+1.Producer
+2.Consumer
+3.Exit
+Enter your option : 2
+
+BUFFER IS EMPTY
+OPTIONS
+1.Producer
+2.Consumer
+3.Exit
+Enter your option : 3
