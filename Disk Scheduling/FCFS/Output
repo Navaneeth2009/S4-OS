@@ -1,0 +1,22 @@
+Enter the size of Queue: 8
+Enter the Queue: 98
+183
+37
+122
+14
+124
+65
+67
+Enter the intial head position: 53
+
+Move from 53 to 98 and the seek is 45
+Move from 98 to 183 and the seek is 85
+Move from 183 to 37 and the seek is 146
+Move from 37 to 122 and the seek is 85
+Move from 122 to 14 and the seek is 108
+Move from 14 to 124 and the seek is 110
+Move from 124 to 65 and the seek is 59
+Move from 65 to 67 and the seek is 2
+
+Total Seek Distance is : 640
+Average Seek Distance is : 80.000
